@@ -2,9 +2,9 @@
 
 <!--
 **pboy0442/pboy0442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The emoji cheat sheet: https://www.webfx.com/tools/emoji-cheat-sheet/
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on some new ideas for my Raspberry Pi
-- 🌱 I’m currently learning C#, C++, Python, JavaScript
+- :strawberry: I’m currently working on some new ideas for my Raspberry Pi
+- :eyes: I’m currently learning C#, C++, Python, JavaScript
