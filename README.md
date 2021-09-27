@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying IT security.
+- 🔭 I’m currently working on some new ideas for my Raspberry Pi
 - 🌱 I’m currently learning C#, C++, Python, JavaScript
