@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - :strawberry: I’m currently working on some new ideas for my Raspberry Pi
-- :eyes: I’m currently learning C#, C++, Python, JavaScript
+- :eyes: I’m currently learning JavaScrip, Python, C#, C++
